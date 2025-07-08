@@ -3,3 +3,5 @@
 **Session 2:** Statement, Arithmetic Operators, Operand, Expression, PEMDAS, String Operations, Type casting, Comment, input function.
 
 **Session 3:** Comparison Operators, Assignment Operators, Boolean, Logical Operators, ZeroDivisionError, Membership Operators, Conditional Execution (all kinds of it).
+
+**Session 4:** Catching Exceptions (try-except), Short-Ciruit & Guard Pattern, Function, Built-in Functions, Library Functions, Creating Functions, fruitful function & void function, Boolean Function, Local and global variables, global statement.
