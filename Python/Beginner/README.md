@@ -7,3 +7,5 @@
 **Session 4:** Catching Exceptions (try-except), Short-Ciruit & Guard Pattern, Function, Built-in Functions, Library Functions, Creating Functions, fruitful function & void function, Boolean Function, Local and global variables, global statement.
 
 **Session 5:** Keyword-only arguments, String formatting, Variable positional arguments (*args), Variable keyword arguments (**kwargs).
+
+**Session 6:** Loop & Iteration, While Loop, Infinite Loop, Use Cases of While Loop, Break Statement, Continue Statement.
