@@ -9,3 +9,5 @@
 **Session 5:** Keyword-only arguments, String formatting, Variable positional arguments (*args), Variable keyword arguments (**kwargs).
 
 **Session 6:** Loop & Iteration, While Loop, Infinite Loop, Use Cases of While Loop, Break Statement, Continue Statement.
+
+**Session 7:** For Loop, Range function, Control statements with for loops, Comparison with While loop.
