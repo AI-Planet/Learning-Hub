@@ -11,3 +11,5 @@
 **Session 6:** Loop & Iteration, While Loop, Infinite Loop, Use Cases of While Loop, Break Statement, Continue Statement.
 
 **Session 7:** For Loop, Range function, Control statements with for loops, Comparison with While loop.
+
+**Session 8:** Encapsulation, Generalization, Strings, Creating strings, Accessing characters in a string, String operations, String methods, String formatting, Escape sequences, Immutability, Raw strings, String Traversal in Python.
