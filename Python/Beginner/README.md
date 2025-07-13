@@ -13,3 +13,5 @@
 **Session 7:** For Loop, Range function, Control statements with for loops, Comparison with While loop.
 
 **Session 8:** Encapsulation, Generalization, Strings, Creating strings, Accessing characters in a string, String operations, String methods, String formatting, Escape sequences, Immutability, Raw strings, String Traversal in Python.
+
+**Session 9:** Lists, Creating Lists, Accessing elements, Membership, Nested Lists, Mutability, List slicing, Common List methods, del statement, List operation, List Comprehension, Traversing a list, Aliasing.
