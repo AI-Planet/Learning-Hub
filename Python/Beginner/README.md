@@ -15,3 +15,5 @@
 **Session 8:** Encapsulation, Generalization, Strings, Creating strings, Accessing characters in a string, String operations, String methods, String formatting, Escape sequences, Immutability, Raw strings, String Traversal in Python.
 
 **Session 9:** Lists, Creating Lists, Accessing elements, Membership, Nested Lists, Mutability, List slicing, Common List methods, del statement, List operation, List Comprehension, Traversing a list, Aliasing.
+
+**Session 10:** Tuples, Creating Tuples, Accessing elements, Immutability, Tuple Operations, Membership, Tuple packing and unpacking, Common Tuple methods, Comparing Tuples, zip function, Use cases of zip function.
