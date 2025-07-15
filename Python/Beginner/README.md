@@ -17,3 +17,5 @@
 **Session 9:** Lists, Creating Lists, Accessing elements, Membership, Nested Lists, Mutability, List slicing, Common List methods, del statement, List operation, List Comprehension, Traversing a list, Aliasing.
 
 **Session 10:** Tuples, Creating Tuples, Accessing elements, Immutability, Tuple Operations, Membership, Tuple packing and unpacking, Common Tuple methods, Comparing Tuples, zip function, Use cases of zip function.
+
+**Session 11:** Dictionary, Creating a Dictionary, Accessing elements, Adding and Modifying a Dictionary, Dictionary methods, Membership, Dictionary functions, Dictionary Comprehension, Merging Dictionaries, Dictionaries & Tuples, Dictionary Use Cases.
