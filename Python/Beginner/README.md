@@ -19,3 +19,5 @@
 **Session 10:** Tuples, Creating Tuples, Accessing elements, Immutability, Tuple Operations, Membership, Tuple packing and unpacking, Common Tuple methods, Comparing Tuples, zip function, Use cases of zip function.
 
 **Session 11:** Dictionary, Creating a Dictionary, Accessing elements, Adding and Modifying a Dictionary, Dictionary methods, Membership, Dictionary functions, Dictionary Comprehension, Merging Dictionaries, Dictionaries & Tuples, Dictionary Use Cases.
+
+**Session 12:** Sets, Creating a Set, Accessing elements, Set Methods, Membership, Set Functions, Set Operations, Set Use Cases, Frozen Sets.
