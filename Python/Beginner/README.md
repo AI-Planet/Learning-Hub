@@ -21,3 +21,5 @@
 **Session 11:** Dictionary, Creating a Dictionary, Accessing elements, Adding and Modifying a Dictionary, Dictionary methods, Membership, Dictionary functions, Dictionary Comprehension, Merging Dictionaries, Dictionaries & Tuples, Dictionary Use Cases.
 
 **Session 12:** Sets, Creating a Set, Accessing elements, Set Methods, Membership, Set Functions, Set Operations, Set Use Cases, Frozen Sets.
+
+**Session 13:** Collection of data, Iterables and Iterators, yield, List Comprehension, Dictionary Comprehension, Set Comprehension, Generator Comprehension, Nested Comprehension, Complex Comprehension.
