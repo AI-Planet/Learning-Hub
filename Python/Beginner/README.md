@@ -23,3 +23,5 @@
 **Session 12:** Sets, Creating a Set, Accessing elements, Set Methods, Membership, Set Functions, Set Operations, Set Use Cases, Frozen Sets.
 
 **Session 13:** Collection of data, Iterables and Iterators, yield, List Comprehension, Dictionary Comprehension, Set Comprehension, Generator Comprehension, Nested Comprehension, Complex Comprehension.
+
+**Session 14:** File Persistence, Opening Files, Reading a File, Writing to a File, Appending to a File, Reading Line by Line, Reading from Files (Extended Methods), Searching in Files, Regular expression, Common Regex Methods.
