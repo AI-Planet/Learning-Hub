@@ -25,3 +25,5 @@
 **Session 13:** Collection of data, Iterables and Iterators, yield, List Comprehension, Dictionary Comprehension, Set Comprehension, Generator Comprehension, Nested Comprehension, Complex Comprehension.
 
 **Session 14:** File Persistence, Opening Files, Reading a File, Writing to a File, Appending to a File, Reading Line by Line, Reading from Files (Extended Methods), Searching in Files, Regular expression, Common Regex Methods.
+
+**Session 15:** Type Hints (Static Type Checking), Variable Annotations, Function Annotations, Optional Types, Union (Multiple Types), Callable, Any (Any Type), Docstring, Function Docstring, Class Docstring, Recursive Functions.
