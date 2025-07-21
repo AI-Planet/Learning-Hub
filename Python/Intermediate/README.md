@@ -1,1 +1,1 @@
-
+**Session 01:** Object-Oriented Programming (OOP), What is a Class?, init: Constructor Method, str: String Representation, Custom Methods, Creating an Object, Key Concepts in Classes & Objects, Inheritance (Extending Classes), Different forms of Inheritance (Single vs. Multiple), Multi-level inheritance, Hierarchical inheritance, Checking inheritance.
