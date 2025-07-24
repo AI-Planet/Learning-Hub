@@ -3,3 +3,5 @@
 **Session 2:** Recursion, Infinite Recursion, Tail Recursion in Python, Towers of Hanoi.
 
 **Session 3:** Sorting Algorithms, Bubble Sort Algorithm, How Bubble Sort Works, Bubble Sort Implementation, Insertion Sort, How Insertion Sort Works, Insertion Sort Implementation, Merge Sort, How Merge Sort Works, Merge Sort Implementation, QuickSort, How QuickSort Works, QuickSort Implementation, Heap Sort, How Heap Sort Works, Heap Sort Implementation.
+
+**Session 4:** Exploratory Data Analysis (EDA), Python's Role in EDA, Pandas, Creating DataFrames, Basic DataFrame Operations, Data Cleaning & Preprocessing, Data Manipulation, Merging & Joining DataFrames, Time Series Handling, Exporting Data, Advanced Features, Performance Optimization.
