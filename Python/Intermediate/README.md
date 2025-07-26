@@ -7,3 +7,5 @@
 **Session 4:** Exploratory Data Analysis (EDA), Python's Role in EDA, Pandas, Creating DataFrames, Basic DataFrame Operations, Data Cleaning & Preprocessing, Data Manipulation, Merging & Joining DataFrames, Time Series Handling, Exporting Data, Advanced Features, Performance Optimization.
 
 **Session 5:** NumPy, Performance, Core Concept: ndarray, Key Properties, Creating Arrays, Array Operations, Indexing & Slicing, Reshaping Arrays, Universal Functions (ufuncs), Saving & Loading Arrays, Comparing NumPy & Pandas.
+
+**Session 6:** Matplotlib, Basic Plotting (Simple Line Plot, Scatter Plot, Bar Chart), Figure and Axes Objects, Common Plot Types (Histogram, Pie Chart, Box Plot, Heatmap), Customizing Plots (Line Styles and Markers, Colors, Text and Annotations, Styles), Subplots and Multiple Axes, 3D Plotting, Animations, Working with Real Data.
