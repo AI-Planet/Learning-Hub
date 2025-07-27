@@ -9,3 +9,5 @@
 **Session 5:** NumPy, Performance, Core Concept: ndarray, Key Properties, Creating Arrays, Array Operations, Indexing & Slicing, Reshaping Arrays, Universal Functions (ufuncs), Saving & Loading Arrays, Comparing NumPy & Pandas.
 
 **Session 6:** Matplotlib, Basic Plotting (Simple Line Plot, Scatter Plot, Bar Chart), Figure and Axes Objects, Common Plot Types (Histogram, Pie Chart, Box Plot, Heatmap), Customizing Plots (Line Styles and Markers, Colors, Text and Annotations, Styles), Subplots and Multiple Axes, 3D Plotting, Animations, Working with Real Data.
+
+**Session 7:** Seaborn, Main Plot Types (Relational Plots, Distribution Plots, Categorical Plots, Regression Plots, Matrix Plots, Multi-plot Grids), Customization (Themes and Styles, Color Palettes, Plot Aesthetics), Advanced Features (Statistical Estimation, Working with Pandas, Pair Plots, Joint Plots, Categorical Plot Combination), Saving Plots, When to Use Seaborn vs. Matplotlib, Example.
