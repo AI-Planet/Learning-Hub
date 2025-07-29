@@ -9,7 +9,9 @@
 **Session 5:** NumPy, Performance, Core Concept: ndarray, Key Properties, Creating Arrays, Array Operations, Indexing & Slicing, Reshaping Arrays, Universal Functions (ufuncs), Saving & Loading Arrays, Comparing NumPy & Pandas.
 
 **Session 6:** Matplotlib, Basic Plotting (Simple Line Plot, Scatter Plot, Bar Chart), Figure and Axes Objects, Common Plot Types (Histogram, Pie Chart, Box Plot, Heatmap), Customizing Plots (Line Styles and Markers, Colors, Text and Annotations, Styles), Subplots and Multiple Axes, 3D Plotting, Animations, Working with Real Data.
-
+, 
 **Session 7:** Seaborn, Main Plot Types (Relational Plots, Distribution Plots, Categorical Plots, Regression Plots, Matrix Plots, Multi-plot Grids), Customization (Themes and Styles, Color Palettes, Plot Aesthetics), Advanced Features (Statistical Estimation, Working with Pandas, Pair Plots, Joint Plots, Categorical Plot Combination), Saving Plots, When to Use Seaborn vs. Matplotlib, Example.
 
 **Session 8:** Plotly, Important Features, Plotly Express (Scatter Plot), Supported Charts in Plotly Express, Plotly Graph Objects, Key graph_objects Components, Interactive Features (Hover Tooltips, Zoom & Pan, Dropdown Menus), Styling & Layout Customization (Change Theme, Customize Axes & Titles, Annotations), Exporting Plots (Save as HTML, Save as Static Image), Plotly Dash (Minimal Dash App). 
+
+**Session 9:** SciPy, Important Features of SciPy, SciPy Submodules, scipy.cluster (Clustering algorithms), scipy.constants (Physical and mathematical constants), scipy.fft (Fast Fourier Transforms), scipy.integrate (Integration and ODEs), scipy.interpolate (Interpolation), scipy.io (Input/Output), scipy.linalg (Linear algebra), scipy.ndimage (N-dimensional image processing), scipy.optimize (Optimization and root finding), scipy.signal (Signal processing), scipy.sparse (Sparse matrices), scipy.spatial (Spatial data structures and algorithms), scipy.special (Special functions), scipy.stats (Statistical functions).
