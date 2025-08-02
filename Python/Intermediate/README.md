@@ -21,3 +21,5 @@
 **Session 11:** TensorFlow, Important Features, Core Concepts in TensorFlow (Tensors, Computation Graph, Automatic Differentiation, Layers and Models), TensorFlow Ecosystem, Training a Neural Network in TensorFlow, Advanced TensorFlow Features (Distributed Training, Custom Training Loops, TensorFlow Serving), TensorFlow vs. PyTorch. 
 
 **Session 12:** PyTorch, Important Features of PyTorch, PyTorch Basics, Tensors (Like NumPy but with GPU Support), Autograd (Automatic Differentiation), Building Neural Networks, Defining a Simple Neural Network, Training a Model, GPU Acceleration, Saving & Loading Models, PyTorch Ecosystem, Using PyTorch.
+
+**Session 13:** Keras, Important Features of Keras, Core Concepts (Models, Layers, Input), Building a Model (Sequential Model Example, Functional API), Compiling the Model, Training the Model, Evaluating and Predicting, Saving and Loading Models, Advanced Features (Callbacks, Custom Layers, Pre-trained Models), Keras Backends.  
