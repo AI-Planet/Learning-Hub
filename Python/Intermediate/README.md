@@ -25,3 +25,5 @@
 **Session 13:** Keras, Important Features of Keras, Core Concepts (Models, Layers, Input), Building a Model (Sequential Model Example, Functional API), Compiling the Model, Training the Model, Evaluating and Predicting, Saving and Loading Models, Advanced Features (Callbacks, Custom Layers, Pre-trained Models), Keras Backends. 
 
 **Session 14:** NLTK, Text Processing, Corpora & Lexical Resources, NLP Algorithms, Core Functionality (Tokenization, Stopwords Removal, Stemming vs Lemmatization, Part-of-Speech Tagging, Named Entity Recognition, Frequency Distribution), Advanced Features (Text Classification, WordNet, Sentiment Analysis). 
+
+**Session 15:** Gensim, Important Features of Gensim, Core Components & Usage (Preprocessing Text, Creating a Dictionary & Corpus, Topic Modeling with LDA, Word Embeddings with Word2Vec, Document Similarity with TF-IDF), Real-World Applications (News Article Classification, Recommender Systems), Advanced Features (Streaming Large Datasets, Distributed Computing), Optimization & Performance Tuning (Memory Efficiency, Model Evaluation), Troubleshooting & Best Practices (Common Issues, Hyperparameter Tuning).
