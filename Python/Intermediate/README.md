@@ -31,3 +31,5 @@
 **Session 16:** SymPy, Important Features of SymPy, Basic Usage (Symbols and Expressions, Simplification and Expansion, Calculus), Equation Solving (Algebraic Equations, Differential Equations), Matrices, Plotting, Series Expansion, Substitution and Evaluation, Special Functions, Number Theory, Advanced Features (Lambda Functions, Physics Module, Printing, Assumptions System, Solvers).
 
 **Session 17:** pytest, Important Features, Basic Test Structure, Test Discovery Rules, Assertions, Fixtures (Dependency Injection), Parametrized Testing, Markers, Configuration (pytest.ini), Plugins, Advanced Features (Temporary Directories, Mocking with monkeypatch, Test Classes), Running Tests (Basic commands, Parallel execution, Coverage reporting), Debugging Tests. 
+
+**Session 18:** FastAPI, Core Features, Key Components (Path Parameters, Query Parameters, Request Body, Response Model, Status Codes, Form Data, File Uploads, Dependencies, Security, Background Tasks), Advanced Features (Middleware, CORS, WebSockets, Testing), Deployment Options.
