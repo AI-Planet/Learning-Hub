@@ -33,3 +33,5 @@
 **Session 17:** pytest, Important Features, Basic Test Structure, Test Discovery Rules, Assertions, Fixtures (Dependency Injection), Parametrized Testing, Markers, Configuration (pytest.ini), Plugins, Advanced Features (Temporary Directories, Mocking with monkeypatch, Test Classes), Running Tests (Basic commands, Parallel execution, Coverage reporting), Debugging Tests. 
 
 **Session 18:** FastAPI, Core Features, Key Components (Path Parameters, Query Parameters, Request Body, Response Model, Status Codes, Form Data, File Uploads, Dependencies, Security, Background Tasks), Advanced Features (Middleware, CORS, WebSockets, Testing), Deployment Options.
+
+**Session 19:** Dask, Important Features, Dask Components (High-Level Collections, Low-Level Schedulers), Dask in Action (Dask Arrays, Dask DataFrames, Dask Bags, Dask Delayed), Dask Distributed (Scaling to Clusters), Local Cluster (Multi-core), Scaling to a Cluster, Dask Dashboard, When to Use Dask, Limitations.
