@@ -35,3 +35,5 @@
 **Session 18:** FastAPI, Core Features, Key Components (Path Parameters, Query Parameters, Request Body, Response Model, Status Codes, Form Data, File Uploads, Dependencies, Security, Background Tasks), Advanced Features (Middleware, CORS, WebSockets, Testing), Deployment Options.
 
 **Session 19:** Dask, Important Features, Dask Components (High-Level Collections, Low-Level Schedulers), Dask in Action (Dask Arrays, Dask DataFrames, Dask Bags, Dask Delayed), Dask Distributed (Scaling to Clusters), Local Cluster (Multi-core), Scaling to a Cluster, Dask Dashboard, When to Use Dask, Limitations.
+
+**Session 20:** Polars, Important Features, Basic Usage (Creating DataFrames, Basic Operations), Lazy API, Advanced Features (Expressions, Joins, Temporal Data, Missing Data), Performance Considerations, Comparison with pandas, Polars VS Pandas, Integration.
