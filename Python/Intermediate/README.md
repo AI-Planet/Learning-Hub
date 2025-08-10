@@ -37,3 +37,5 @@
 **Session 19:** Dask, Important Features, Dask Components (High-Level Collections, Low-Level Schedulers), Dask in Action (Dask Arrays, Dask DataFrames, Dask Bags, Dask Delayed), Dask Distributed (Scaling to Clusters), Local Cluster (Multi-core), Scaling to a Cluster, Dask Dashboard, When to Use Dask, Limitations.
 
 **Session 20:** Polars, Important Features, Basic Usage (Creating DataFrames, Basic Operations), Lazy API, Advanced Features (Expressions, Joins, Temporal Data, Missing Data), Performance Considerations, Comparison with pandas, Polars VS Pandas, Integration.
+
+**Session 21:** Hugging Face Transformers, Important Features, Core Components (Pipeline, Auto Classes, Tokenizers, Models), Common Tasks (Text Classification, Named Entity Recognition (NER), Question Answering, Text Generation), Fine-Tuning Models, Saving and Loading Models, Using the Hugging Face Hub, Advanced Features (Custom Models, Mixed Precision Training, Distributed Training).
