@@ -43,3 +43,5 @@
 **Session 22:** SQLAlchemy, SQLAlchemy Overview, Important Features, SQLAlchemy Core vs. ORM, SQLAlchemy Core (Connecting to a Database, Defining Tables, Inserting Data, Querying Data), SQLAlchemy ORM (Defining Models, Session Management, CRUD Operations), Inserting Data, Querying Data, Updating Data, Deleting Data, Relationships in SQLAlchemy ORM (One-to-Many Relationship, Many-to-Many Relationship), Advanced Querying (Joins, Aggregations, Filtering with Conditions), Transactions & Session Management, Alembic (Database Migrations), Initialize Alembic, Configure alembic.ini, Generate & Apply Migrations.
 
 **Session 23:** Scrapy, Core Components (Spiders, Items, Item Pipelines, Middleware), Project Structure, Running a Spider, Selectors, Settings, Advanced Features (Link Extractors, Form Handling, Exporting Data, Using Feed Exporters).
+
+**Session 24:** Selenium, Basic Setup, Core Features (Locating Elements, Interacting with Elements, Browser Navigation, Waiting for Elements, Handling Alerts, Working with Windows and Frames, Executing JavaScript, Taking Screenshots), Advanced Features (Page Object Model (POM), Headless Browsers, Handling Cookies). 
