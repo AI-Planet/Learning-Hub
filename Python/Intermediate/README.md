@@ -45,3 +45,5 @@
 **Session 23:** Scrapy, Core Components (Spiders, Items, Item Pipelines, Middleware), Project Structure, Running a Spider, Selectors, Settings, Advanced Features (Link Extractors, Form Handling, Exporting Data, Using Feed Exporters).
 
 **Session 24:** Selenium, Basic Setup, Core Features (Locating Elements, Interacting with Elements, Browser Navigation, Waiting for Elements, Handling Alerts, Working with Windows and Frames, Executing JavaScript, Taking Screenshots), Advanced Features (Page Object Model (POM), Headless Browsers, Handling Cookies). 
+
+** Session 25:** Rich, Basic Usage (Pretty Printing, Console Output), Key Features (Text Formatting, Tables, Progress Bars, More advanced progress tracking), Syntax Highlighting, Trees, Markdown Support, Panels and Layouts, Logging Integration, Advanced Features (Custom Themes, Tracebacks, Live Display, Emoji Support, Inspect Any Object).
